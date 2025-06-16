@@ -30,8 +30,8 @@ Stop spending time hunting for airdrop opportunities and tracking details across
 ![image](https://github.com/user-attachments/assets/2b4ba6eb-9478-4948-bab3-d99cea327aa6)
 
 **Landing Page**
-![claimitdocs](https://github.com/user-attachments/assets/883e67ff-7355-4924-9f5e-ceeb07ac798b)
 
+![claimitdocs](https://github.com/user-attachments/assets/97c5434f-3fb3-441e-8e62-105e7fed8219)
 
 ![image](https://github.com/user-attachments/assets/9faa7582-8a72-410f-bb0c-facbce75ec72)
 ![image](https://github.com/user-attachments/assets/ad2c8980-39d0-4137-a83d-3dd48f01135a)
