@@ -21,14 +21,16 @@ Stop spending time hunting for airdrop opportunities and tracking details across
 ## Demo 
 **Web Extension**
 
+![claimitextension](https://github.com/user-attachments/assets/69156569-4456-4f57-a03c-0fd7e7aa6790)
 
-![image](https://github.com/user-attachments/assets/776bd5ec-b920-49ef-8088-edbaa9242af9)
+
 ![image](https://github.com/user-attachments/assets/f8a2c0e2-7bba-41d3-b187-341b192f9356)
 ![image](https://github.com/user-attachments/assets/adbe1ccc-3b6e-4370-85d8-5f09da9464a3)
 ![image](https://github.com/user-attachments/assets/508e6843-8fd4-4a87-a459-fe8645914691)
 ![image](https://github.com/user-attachments/assets/2b4ba6eb-9478-4948-bab3-d99cea327aa6)
 
 **Landing Page**
+![claimitdocs](https://github.com/user-attachments/assets/883e67ff-7355-4924-9f5e-ceeb07ac798b)
 
 
 ![image](https://github.com/user-attachments/assets/9faa7582-8a72-410f-bb0c-facbce75ec72)
