@@ -1,4 +1,6 @@
 # 🚀 ClaimIt – Airdrop Tracking Chrome Extension
+# **CURRENTLY IN DEV MODE**
+  API d’events (Zapper, Debank, Alchemy, etc.). 
 
 ## 📜 Project Description
 **ClaimIt** is a Web Extension designed to help crypto users **track and farm airdrops** automatically. Stay ahead of the game by never missing a free token opportunity again!
@@ -19,22 +21,20 @@ Stop spending time hunting for airdrop opportunities and tracking details across
 4. **Receive Notifications**: Get real-time alerts when a new airdrop is available for your wallet.
 
 ## Demo 
+
+**Tutorials**
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/1a2a8b30-ec5c-46d0-a76f-9294dba12ccd" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/3cabc3e8-09ba-4680-a951-bdc5e4a784f1" />
+<img width="1916" height="872" alt="image" src="https://github.com/user-attachments/assets/7c074fbf-acf7-4361-b41b-b0d93e93c732" />
 **Web Extension**
 
-![claimitextension](https://github.com/user-attachments/assets/69156569-4456-4f57-a03c-0fd7e7aa6790)
 
-
+![image](https://github.com/user-attachments/assets/776bd5ec-b920-49ef-8088-edbaa9242af9)
 ![image](https://github.com/user-attachments/assets/f8a2c0e2-7bba-41d3-b187-341b192f9356)
 ![image](https://github.com/user-attachments/assets/adbe1ccc-3b6e-4370-85d8-5f09da9464a3)
 ![image](https://github.com/user-attachments/assets/508e6843-8fd4-4a87-a459-fe8645914691)
 ![image](https://github.com/user-attachments/assets/2b4ba6eb-9478-4948-bab3-d99cea327aa6)
 
-**Landing Page**
-
-![claimitdocs](https://github.com/user-attachments/assets/97c5434f-3fb3-441e-8e62-105e7fed8219)
-
-![image](https://github.com/user-attachments/assets/9faa7582-8a72-410f-bb0c-facbce75ec72)
-![image](https://github.com/user-attachments/assets/ad2c8980-39d0-4137-a83d-3dd48f01135a)
 
 ## 👫 Contributing
 We welcome contributions! If you'd like to improve ClaimIt, feel free to fork the repository and submit a pull request.
