@@ -22,18 +22,16 @@ Stop spending time hunting for airdrop opportunities and tracking details across
 
 ## Demo 
 
-**Tutorials**
+# **Tutorials**
 <img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/1a2a8b30-ec5c-46d0-a76f-9294dba12ccd" />
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/3cabc3e8-09ba-4680-a951-bdc5e4a784f1" />
 <img width="1916" height="872" alt="image" src="https://github.com/user-attachments/assets/7c074fbf-acf7-4361-b41b-b0d93e93c732" />
-**Web Extension**
 
-
-![image](https://github.com/user-attachments/assets/776bd5ec-b920-49ef-8088-edbaa9242af9)
-![image](https://github.com/user-attachments/assets/f8a2c0e2-7bba-41d3-b187-341b192f9356)
-![image](https://github.com/user-attachments/assets/adbe1ccc-3b6e-4370-85d8-5f09da9464a3)
-![image](https://github.com/user-attachments/assets/508e6843-8fd4-4a87-a459-fe8645914691)
-![image](https://github.com/user-attachments/assets/2b4ba6eb-9478-4948-bab3-d99cea327aa6)
+# **Web Extension**
+<img width="465" height="726" alt="image" src="https://github.com/user-attachments/assets/5c1e5307-c264-43e8-b0d9-9d4aeaa524a6" />
+<img width="498" height="540" alt="image" src="https://github.com/user-attachments/assets/dff4cd45-d3a3-4f77-a5b2-d195adfd50a7" />
+<img width="495" height="663" alt="image" src="https://github.com/user-attachments/assets/3fa9787d-9014-4ed1-b211-048b6d44a177" />
+<img width="492" height="585" alt="image" src="https://github.com/user-attachments/assets/1e262781-53f8-42bb-92b8-fcd0af644813" />
 
 
 ## 👫 Contributing
