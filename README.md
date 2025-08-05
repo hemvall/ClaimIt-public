@@ -1,7 +1,5 @@
 # 🚀 ClaimIt – Airdrop Tracking Chrome Extension
 # **CURRENTLY IN DEV MODE**
-  API d’events (Zapper, Debank, Alchemy, etc.). 
-
 ## 📜 Project Description
 **ClaimIt** is a Web Extension designed to help crypto users **track and farm airdrops** automatically. Stay ahead of the game by never missing a free token opportunity again!
 Stop spending time hunting for airdrop opportunities and tracking details across multiple sources—ClaimIt handles it all for you!
